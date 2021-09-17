@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/my_fragment_color"
     android:orientation="horizontal"
-    tools:context="com.example.android.fragmentexample.SimpleFragment">
+    android:background="@color/yellow"
+    tools:context=".SimpleFragment">
 
     <TextView
         android:id="@+id/fragment_header"
@@ -13,12 +13,12 @@
         android:layout_height="wrap_content"
         android:padding="@dimen/small_padding"
         android:text="@string/question_article"
-        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"/>
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
 
     <RadioGroup
         android:id="@+id/radio_group"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="32dp"
         android:orientation="horizontal">
 
         <RadioButton
@@ -35,4 +35,5 @@
             android:layout_marginRight="@dimen/standard_margin"
             android:text="@string/no" />
     </RadioGroup>
+
 </LinearLayout>
