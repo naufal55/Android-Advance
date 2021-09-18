@@ -16,10 +16,12 @@ public class MainActivity extends AppCompatActivity
     private boolean isFragmentDisplayed = false;
     private int mRadioButtonChoice = 2; // The default (no choice).
 
-    // Saved instance state key.
-    static final String STATE_FRAGMENT = "state_of_fragment";
     //**
     static final String STATE_CHOICE = "user_choice";
+
+    // Saved instance state key.
+    static final String STATE_FRAGMENT = "state_of_fragment";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

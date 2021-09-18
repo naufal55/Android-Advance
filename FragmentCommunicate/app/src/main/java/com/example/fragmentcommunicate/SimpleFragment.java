@@ -20,9 +20,11 @@ public class SimpleFragment extends Fragment {
 
     private static final int NONE = 2;
     public int mRadioButtonChoice = NONE;
+    private static final String CHOICE = "choice";
+
     OnFragmentInteractionListener mListener;
 
-    private static final String CHOICE = "choice";
+
 
     // TODO: Rename and change types of parameters
 
