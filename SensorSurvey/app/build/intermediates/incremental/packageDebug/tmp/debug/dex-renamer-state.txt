@@ -1,0 +1,4 @@
+#Sat Sep 25 19:11:00 ICT 2021
+base.0=C\:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\SensorSurvey\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

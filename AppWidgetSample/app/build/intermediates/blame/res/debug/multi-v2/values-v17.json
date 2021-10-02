@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TIUNIDA15\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bea6d96f11229b2f207f5e331f3fcbfe\\res\\values-v17\\values-v17.xml",

@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "15,16,22",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "664,723,1030",
-                        "endColumns": "57,55,43",
-                        "endOffsets": "717,774,1069"
-                    },
-                    "to": {
-                        "startLines": "467,468,506",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "44912,44970,47582",
-                        "endColumns": "57,55,43",
-                        "endOffsets": "44965,45021,47621"
-                    }
-                },
                 {
                     "source": "C:\\Users\\TIUNIDA15\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bea6d96f11229b2f207f5e331f3fcbfe\\res\\values\\values.xml",
                     "from": {
@@ -76,22 +59,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "18,15,31,28,22,25",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "724,623,1224,1102,886,988",
-                        "endLines": "19,15,31,28,22,25",
-                        "endColumns": "32,52,56,59,53,60",
-                        "endOffsets": "827,671,1276,1157,935,1044"
+                        "startLines": "16,42,33,24,37",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "631,1811,1477,1038,1603",
+                        "endLines": "21,44,35,30,39",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "950,1952,1595,1412,1760"
                     },
                     "to": {
-                        "startLines": "559,561,562,565,566,567",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "50912,51019,51072,51253,51313,51367",
-                        "endLines": "560,561,562,565,566,567",
-                        "endColumns": "32,52,56,59,53,60",
-                        "endOffsets": "51014,51067,51124,51308,51362,51423"
+                        "startLines": "573,579,582,585,592",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "51870,52189,52333,52454,52827",
+                        "endLines": "578,581,584,591,594",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "52184,52328,52449,52822,52982"
                     }
                 },
                 {
@@ -114,26 +97,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "16,42,33,24,37",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "631,1811,1477,1038,1603",
-                        "endLines": "21,44,35,30,39",
-                        "endColumns": "12,12,12,12,12",
-                        "endOffsets": "950,1952,1595,1412,1760"
-                    },
-                    "to": {
-                        "startLines": "573,579,582,585,592",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "51870,52189,52333,52454,52827",
-                        "endLines": "578,581,584,591,594",
-                        "endColumns": "12,12,12,12,12",
-                        "endOffsets": "52184,52328,52449,52822,52982"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "17,15,16",
                         "startColumns": "4,4,4",
@@ -147,6 +111,42 @@
                         "startOffsets": "7738,7784,7831",
                         "endColumns": "45,46,50",
                         "endOffsets": "7779,7826,7877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,15,31,28,22,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "724,623,1224,1102,886,988",
+                        "endLines": "19,15,31,28,22,25",
+                        "endColumns": "32,52,56,59,53,60",
+                        "endOffsets": "827,671,1276,1157,935,1044"
+                    },
+                    "to": {
+                        "startLines": "559,561,562,565,566,567",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "50912,51019,51072,51253,51313,51367",
+                        "endLines": "560,561,562,565,566,567",
+                        "endColumns": "32,52,56,59,53,60",
+                        "endOffsets": "51014,51067,51124,51308,51362,51423"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "15,16,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "668,727,790",
+                        "endColumns": "57,55,43",
+                        "endOffsets": "721,778,829"
+                    },
+                    "to": {
+                        "startLines": "467,468,506",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "44912,44970,47582",
+                        "endColumns": "57,55,43",
+                        "endOffsets": "44965,45021,47621"
                     }
                 }
             ]

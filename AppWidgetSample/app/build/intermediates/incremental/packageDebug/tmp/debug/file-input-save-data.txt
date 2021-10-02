@@ -1,6 +1,6 @@
 #Internal package file, do not edit.
-#Mon Sep 20 19:41:46 ICT 2021
-0.base=C\:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Android-Advance\\android-advanced\\AppWidgetSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sat Sep 25 16:38:22 ICT 2021
+0.base=C\:\\Users\\TIUNIDA15\\AndroidStudioProjects\\Project-Android\\AppWidgetSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 count=1
 0.baseType=DIRECTORY
